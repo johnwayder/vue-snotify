@@ -18,7 +18,7 @@ const gulp = require('gulp'),
   greplace = require('gulp-replace'),
   dMerge = require('deepmerge'),
   typescript = require('rollup-plugin-typescript2'),
-  VuePlugin = require('rollup-plugin-vue').default;
+  VuePlugin = require('rollup-plugin-vue');
 
 const {version, license, author, name} = require('./package.json');
 const banner =
