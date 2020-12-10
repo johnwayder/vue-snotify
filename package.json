@@ -1,8 +1,8 @@
 {
   "name": "@fireguard/vue-snotify",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "A Vue.js toast notifications",
-  "main": "./dist/vue-snotify.common.js",
+  "main": "./src/index.ts",
   "scripts": {
     "prestart": "npm run link:src",
     "start": "cross-env NODE_ENV=development npm run link:src && npm run example:dev",

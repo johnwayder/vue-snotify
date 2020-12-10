@@ -1,5 +1,5 @@
 /**
- * @fireguard/vue-snotify v3.2.2
+ * @fireguard/vue-snotify v3.2.3
  * (c) 2020 artemsky <mr.artemsky@gmail.com>
  * @license MIT
  */
