@@ -1,5 +1,5 @@
 {
-  "name": "@fireguard/vue-snotify",
+  "name": "@johnwayder/vue-snotify",
   "version": "3.2.3",
   "description": "A Vue.js toast notifications",
   "main": "./src/index.ts",
